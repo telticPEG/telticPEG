@@ -1,8 +1,8 @@
 
-# [**PEG SOLUCIONES**](https://soporteteltic.net.co/)
+
 ![](https://drive.google.com/uc?export=view&id=1PHIsmN21wUbXDi-npFFa2bfcnx4bLMgz)
 
-## **¿QUIENES SOMOS?**
+# [**¿QUIENES SOMOS?**](https://soporteteltic.net.co/) 
 
 ### **MISIÓN**
 Ofrecer servicios de ingeniería especializada en redes de telecomunicaciones; generando empleo mediante la implementación de soluciones en redes de fibra optica, redes inalambricas, sistemas de cabeado estructurado y sistemas de televisión por cable, brindando a nuestros clientes el mejor acompañamiento en el desarrollo de sus proyectos para ofrecer servicios de alta calidad.
