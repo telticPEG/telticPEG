@@ -1,11 +1,11 @@
 
-#**PEG SOLUCIONES**
+# **PEG SOLUCIONES**
 
-##**¿QUIENES SOMOS?**
+## **¿QUIENES SOMOS?**
 
-##**MISIÓN**
+## **MISIÓN**
 
-##**VISIÓN**
+## **VISIÓN**
 
 
 PEG SOLUCIONES 
