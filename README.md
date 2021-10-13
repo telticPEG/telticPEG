@@ -8,7 +8,7 @@
 Ofrecer servicios de ingeniería especializada en redes de telecomunicaciones; generando empleo mediante la implementación de soluciones en redes de fibra optica, redes inalambricas, sistemas de cabeado estructurado y sistemas de televisión por cable, brindando a nuestros clientes el mejor acompañamiento en el desarrollo de sus proyectos para ofrecer servicios de alta calidad.
 
 ### **VISIÓN**
-Ser una de las empresas mas reconocidad a nivel nacional, lider en el asesoramiento de redes opticas pasivas aplicandometodologías que permitan diseñar, implementar, operar y optimizar redes de alta velocidad.
+Ser una de las empresas mas reconocidas a nivel nacional, lider en el asesoramiento de redes opticas pasivas; aplicando metodologías que permitan diseñar, implementar, operar y optimizar redes de alta velocidad.
 
 ### **VALORES**
 Nos caracterizamos por ser una empresa integra, honesta y transparente; entregando siempre lo mejor para brindar confianza y respaldo a nuestros clientes.
