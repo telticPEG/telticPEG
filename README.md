@@ -27,7 +27,7 @@ Nos caracterizamos por ser una empresa integra, honesta y transparente; entregan
   Diseño, edición, control y manejo de redes sociales, publicidad y material corporativo.
   Encargada de Academia PEG Soluciones (cursos, asesorías y soporte).Manejo de Autocad, Adobe Photoshop, Premiere Pro, Illustrator, InDesign.  
   
-  - **Diana Suárez Muñoz** - CFO (Chief Financial Officer);
+ - **Diana Suárez Muñoz** - CFO (Chief Financial Officer);
   Administradora de empresas y Especialista en Gerencia de Mercadeo en Fundación Universitaria CEIPA. 
 
 <!--### Hi there 👋
