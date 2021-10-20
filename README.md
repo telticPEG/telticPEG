@@ -16,9 +16,6 @@ Nos caracterizamos por ser una empresa integra, honesta y transparente; entregan
 ## **Nuestro equipo**
 - **Pedro Enrique Guerrero Zuluaga** - CEO (Chief Executive Officer);
   Ingeniero Electrónico de la Universidad de Antioquia con énfasis en el área de telecomunicaciones. Especialista en Telecomunicaciones de la Universidad Pontificia Bolivariana.  
-- **Diana Suárez Muñoz** - CFO (Chief Financial Officer);
-  Administradora de empresas y Especialista en Gerencia de Mercadeo en Fundación Universitaria CEIPA. 
-
 - **Christian Camilo Gaviria Castro** - CIO (Chief Information Officer);
   Ingeniero de Telecomunicaciones del Instituto Tecnológico Metropolitano.
   Ingeniero certificado en MTCNA, MTCTCE, MTCSE. AWS Certified Cloud Practicioner. 
@@ -29,6 +26,9 @@ Nos caracterizamos por ser una empresa integra, honesta y transparente; entregan
 - **Daniela Guerrero Vásquez** - CMO (Chief Marketing Officer);
   Diseño, edición, control y manejo de redes sociales, publicidad y material corporativo.
   Encargada de Academia PEG Soluciones (cursos, asesorías y soporte).Manejo de Autocad, Adobe Photoshop, Premiere Pro, Illustrator, InDesign.  
+  
+  - **Diana Suárez Muñoz** - CFO (Chief Financial Officer);
+  Administradora de empresas y Especialista en Gerencia de Mercadeo en Fundación Universitaria CEIPA. 
 
 <!--### Hi there 👋
 
